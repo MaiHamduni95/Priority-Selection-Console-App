@@ -4,6 +4,8 @@ using PriorityApp.Models;
 
 namespace PriorityApp.Services
 {
+    //controller of selection process.
+    // load items , runs multiple selection , prints results
     public class selectionRunner
     {
         private readonly IItemSelector _itemSelector;
@@ -51,8 +53,10 @@ namespace PriorityApp.Services
             }
             return items;
         }
+        
         private List<PriorityWeight> CreatePriorityweights()
         {
+            // default weight for priorites 1 ,2 ,3
             return new List<PriorityWeight>
             {
                 new PriorityWeight { Priority = 1 , Weight= 60 },
@@ -60,9 +64,10 @@ namespace PriorityApp.Services
                  new PriorityWeight { Priority = 3 , Weight= 10 },
             };
         }
-
+        //main workflow
         public void run()
         {
+            //generate a dynamic items
             var items = CreateItems();
             var weights = CreatePriorityweights();
 
@@ -73,7 +78,7 @@ namespace PriorityApp.Services
             Console.WriteLine();
             Console.WriteLine("selection");
             int numberofSelection = 7;
-
+            //select 7 items
             for (int i = 0; i < numberofSelection && items.Count > 0 ; i++)
             {
                 var selected = _itemSelector.Select(items,weights);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\PriorityApp.csproj": {}
+    "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\Priority-Selection-Console-App\\PriorityApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\PriorityApp.csproj": {
+    "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\Priority-Selection-Console-App\\PriorityApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\PriorityApp.csproj",
+        "projectUniqueName": "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\Priority-Selection-Console-App\\PriorityApp.csproj",
         "projectName": "PriorityApp",
-        "projectPath": "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\PriorityApp.csproj",
+        "projectPath": "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\Priority-Selection-Console-App\\PriorityApp.csproj",
         "packagesPath": "C:\\Users\\mayh9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\obj\\",
+        "outputPath": "C:\\Users\\mayh9\\source\\repos\\PriorityApp\\Priority-Selection-Console-App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
