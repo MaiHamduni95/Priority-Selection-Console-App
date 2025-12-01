@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PriorityApp
+build_property.RootNamespace = PriorityApp
+build_property.ProjectDir = C:\Users\mayh9\source\repos\PriorityApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mayh9\source\repos\PriorityApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mayh9/source/repos/PriorityApp/Priority-Selection-Console-App/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpb3JpdHktU2VsZWN0aW9uLUNvbnNvbGUtQXBwXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-k15rg1dp4x
